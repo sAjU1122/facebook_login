@@ -3,7 +3,7 @@
     height: 800px;
 }
 body{
-    background-color: #fff;
+    background-color: #dfdede;
 }
 .header{
     width: 350px;
@@ -106,3 +106,9 @@ input{
     color: blue;
     border-style: none;
 }
+footer{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 30px;
+ }
+

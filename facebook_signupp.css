@@ -1,0 +1,104 @@
+body{
+    background-color: #dbdada;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+.box {
+    width: 700px;
+    height: 800px;
+    border: 1px solid rgb(51, 47, 47);
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+}
+
+.head h4 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: -0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head p {
+    text-align: center;
+    margin-top: -20px;
+    color: rgb(31, 28, 28);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input_fild {
+    margin: auto;
+}
+
+input {
+    width: 200px;
+    height: 50px;
+    margin-left: 100px;
+}
+
+.email input {
+    width: 505px;
+}
+
+.pass input {
+    width: 505px;
+}
+
+.para h5 {
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gen input {
+    width: 30px;
+    margin-left: 50px;
+}
+
+.gen label {
+    padding-left: 100px;
+    font-size: 30px;
+}
+
+.aside p {
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+    margin: auto;
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 20px;
+}
+
+
+.btn {
+   margin-top: 20px;
+   width: 200px;
+   height: 50px;
+   margin-left: 250px;
+   border-radius: 20px;
+}
+
+.btn button {
+    width: 200px;
+    height: 50px;
+    margin-left: 0px;
+    border-radius: 20px;
+    background-color:green;
+ }
+ a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+ }
+ footer{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 30px;
+ }
